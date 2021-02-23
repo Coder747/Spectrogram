@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-=======
-/Images
->>>>>>> c04d2eb90de5449b1e3a3a7e5b5f6e3fbdd941fa
-/Audio
 /.ipynb_checkpoints
 spec.py
 librosa2.py
