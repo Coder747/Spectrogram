@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 /.vscode
 
+=======
+/.ipynb_checkpoints
+spec.py
+librosa2.py
+chaperon.py
+>>>>>>> 1816d6282e63f13fd50045ce5981e041d4b204f9
