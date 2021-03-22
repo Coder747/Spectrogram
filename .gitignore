@@ -1,3 +1,8 @@
 /.vscode
+/.ipynb_checkpoints
+/Images
+/Images_Mono
+/WAV
+/Mono_WAV
 X.pickle
 Y.pickle
